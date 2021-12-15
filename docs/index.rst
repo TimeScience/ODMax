@@ -22,7 +22,7 @@ notebooks.
    please email us on info@rainbowsensing.com
 
 .. note::
-   Acknowledgement: the development of ODMax has been funded by the Australian National University - Research School of Biology
+   Acknowledgement: the development of ODMax has been funded by the NCRIS funded `Australian Plant Phenomics Facility <https://www.plantphenomics.org.au>`_ node Australian National University - Research School of Biology as part of the Australian Scalable Drone Cloud (`ASDC <https://asdc.io>`_) project. 
 
 * :doc:`intro`
 * :doc:`installation`
